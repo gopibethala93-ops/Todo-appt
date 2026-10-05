@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow Pro - Scalable MERN Task Management",
+  "description": "A scalable enterprise task management application with separate backend/frontend folders and JWT-based authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
